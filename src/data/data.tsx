@@ -207,14 +207,14 @@ export const education: TimelineItem[] = [
  {
     date: 'August 2025',
     location: 'Ahmadu Bello Univerity, Zaria',
-    title: 'Computer Science',
-    content: <p>Describe your experience at school, what you learned, what useful skills you have acquired etc.</p>,
+    title: 'Bsc Computer Science',
+    content: <p>Gained expertise in programming, software development, databases, and data analysis, with a focus on artificial intelligence and machine learning through academic projects and research.</p>,
   },
   {
     date: 'July 2021',
     location: 'Nacabs polytechnic Akwanga',
     title: 'Diploma in Computer Engineering',
-    content: <p>Describe your experience at school, what you learned, what useful skills you have acquired etc.</p>,
+    content: <p>Built a strong foundation in computer hardware, system design, and networking, complemented by programming skills,Communication and hands-on technical problem-solving.</p>,
   },
 ];
 
